@@ -1,0 +1,14 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    	<file>x1.wav</file>
+	<file>x2.wav</file>
+	<file>x3.wav</file>
+	<file>x4.wav</file>
+	<file>x5.wav</file>
+	<file>x6.wav</file>
+	<file>x7.wav</file>
+	<file>x8.wav</file>
+	<file>x9.wav</file>
+	<file>x10.wav</file>
+</qresource>
+</RCC>

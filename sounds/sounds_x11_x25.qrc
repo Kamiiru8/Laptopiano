@@ -1,0 +1,19 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    	<file>x11.wav</file>
+	<file>x12.wav</file>
+	<file>x13.wav</file>
+	<file>x14.wav</file>
+	<file>x15.wav</file>
+	<file>x16.wav</file>
+	<file>x17.wav</file>
+	<file>x18.wav</file>
+	<file>x19.wav</file>
+	<file>x20.wav</file>
+	<file>x21.wav</file>
+	<file>x22.wav</file>
+	<file>x23.wav</file>
+	<file>x24.wav</file>
+	<file>x25.wav</file>
+</qresource>
+</RCC>

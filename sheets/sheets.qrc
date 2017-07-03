@@ -1,0 +1,8 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    	<file>1.txt</file>
+	<file>2.txt</file>
+	<file>3.txt</file>
+	<file>4.txt</file>
+</qresource>
+</RCC>

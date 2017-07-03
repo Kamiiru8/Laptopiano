@@ -1,0 +1,6 @@
+(8 {w u} {w u})*4 
+[8l] {w u} l {w u} 8 [wk] [ul] z [wl] [uj]      [6l] {0 e} l {0 e} 6 [0k] [el] z [0l] e h      [4j] {8 e} j {8 e} 4 [8g] [eh] j [8h] [eg]      [3f] 
+
+{7 0} {7 0} 3 {7 0} [rf] w [0h]      [2h] 6 9 [qd] e [yf] [9g] [eh] [yj] [ek]      [6l] [0k] [ej] [th]     u o 6 0 e [of] u [ts]      [5h] 9 w r y o 5 9 [wp] [tp] e [qs]  [8s] 
+
+w u w u  8l w u l w u 8 wk ul z wl uj  6l 0 e l 0 e 6 0k el z 0l e h  4j 8 e j 8 e 4 8g eh j 8h eg  3f 7 0 7 0 3 7 0 rf w 0h  2h 6 9 qd e yf 9g eh yj ek  6l 0k ej th u o 6 0 e of u ts  5h 9 w rh y o 5 9 w tp e qs  8tuo w tid of wid 8us  0uoa oaf quoa yip  0uoa oaf quoa yip  0uoa oaf 8osf 9 pd  5oad oad 5 $  3afh afh 6sfh fhk j h 6  2G G 2 5G dj 5h  3fhk fhk 3 6fhk L  2djz dj  8sl w u sl w u 8 wak usl z wsl u pj  6sl 0 e sl 0 e 6 0ak esl dz 0sl eoh  4pj 8 e pj 8 e 4 8ig eoh pj 0oh eig  3uaf 7 0 7 0 3 7 0 uf 7 0oh  2oh 6 9 qyd e yuf 9ig eoh ypj eak  6pl 0ak epj toh u o 6 0 e uof u ts  5oh 9 w roh y o 5 9 w etp e qts  8s
