@@ -7,7 +7,14 @@
 
 <b>Pliki projektu:</b><br/>
 
-<b>xxx</b> - yyy<br/><br/>
+<b>main.cpp</b> - yyy<br/>
+<b>klasaglowna.cpp</b> - yyy<br/>
+<b>baza.cpp</b> - yyy<br/>
+<b>klasaglowna.h</b> - yyy<br/>
+<b>baza.h</b> - yyy<br/>
+<b>klasaglowna.ui</b> - yyy<br/>
+<b>baza.ui</b> - yyy<br/>
+<b>Laptopiano.pro</b> - yyy<br/>
 
 <b>Screenshot:</b><br/>
 
