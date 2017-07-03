@@ -10,7 +10,7 @@
 <b>main.cpp</b> - plik uruchomieniowy aplikacji<br/>
 <b>klasaglowna.cpp</b> - klasa główna aplikacji odpowiadająca za okno główne<br/>
 <b>baza.cpp</b> - klasa główna aplikacji odpowiadająca za okno z bazą utworów<br/>
-<b>klasaglowna.h</b> - plik nahłówkowy zawierający deklarację slotów klasy głównej<br/>
+<b>klasaglowna.h</b> - plik nagłówkowy zawierający deklarację slotów klasy głównej<br/>
 <b>baza.h</b> - plik nagłówkowy zawierający deklarację slotów klasy baza<br/>
 <b>klasaglowna.ui</b> - plik interfejsu użytkownika odpowiadający za główne okno aplikacji<br/>
 <b>baza.ui</b> - plik interfejsu użytkownika odpowiadający za okno bazy utworów aplikacji<br/>
