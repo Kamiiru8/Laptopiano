@@ -7,7 +7,7 @@
 
 <b>Pliki projektu:</b><br/>
 
-<b>xxx</b> - yyy<br/>
+<b>xxx</b> - yyy<br/><br/>
 
 <b>Screenshot:</b><br/>
 
